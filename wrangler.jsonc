@@ -1,0 +1,10 @@
+{
+  // Northeast Diamonds Baseball — static site, no Worker script.
+  // Cloudflare serves the repo root as static assets.
+  "name": "ne-diamonds-baseball",
+  "compatibility_date": "2026-09-15",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  }
+}
